@@ -115,4 +115,7 @@ a {
               transform: translate3d(-75%, 0%, 0);
     }
   }
-  
+.red { color: red !important; }
+.blue { color: blue !important; }
+.green { color: green !important; }
+.yellow { color: yellow !important; }
