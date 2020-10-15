@@ -1,2 +1,1 @@
-document.cookie = "author=LordOfCats4080;platform=GitHub;"
-console.log(document.cookie)
+if (!typeof Storage) console.warn("This browser does not support HTML storage.");
